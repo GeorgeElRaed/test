@@ -9,11 +9,20 @@ namespace JADDDAADADADDA
 {
     public class Class1
     {
+        int george;
+        int jad;
+
+        Class1(int george,int jad)
+        {
+            this.george = george;
+            this.jad = jad;
+        }
+
 
         public void main()
         {
             
-            //he;;p
+            
 
         }
 
